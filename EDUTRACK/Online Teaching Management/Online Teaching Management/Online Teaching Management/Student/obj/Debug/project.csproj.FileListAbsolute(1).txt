@@ -1,0 +1,5 @@
+E:\vb _temp\user\WebApplication1\project\project\bin\project.dll
+E:\vb _temp\user\WebApplication1\project\project\bin\project.pdb
+E:\vb _temp\user\WebApplication1\project\project\obj\Debug\project.dll
+E:\vb _temp\user\WebApplication1\project\project\obj\Debug\project.pdb
+E:\vb _temp\user\WebApplication1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache

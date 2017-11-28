@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.Master.cs" Inherits="final_project.main.Site1" %>
+
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="main.css" rel="stylesheet" type="text/css" />
+    <link href="styles_nivo.css" rel="stylesheet" type="text/css" />
+<link href="nivo-slider.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="main">
+    <div class="head">
+    <div class="logo">
+      <img src="../user/images/logo.jpg" alt=""/>
+      </div>
+    <div class="title">
+       <div id="wrapper">
+             
+            <div id="slider" class="nivoSlider" 
+                style="background-image: url('/user/images/img7.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: inherit top">
+                <img src="images/top.jpg" alt="" />
+                <img src="images/top2.jpg" alt=""/>
+                <img src="images/top3.jpg" alt="" />
+            </div>        
+     
+<script type="text/javascript" src="../main/lib/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="../main/lib/jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('#slider').nivoSlider();
+        });
+    </script>
+	
+		</div>		
+    </div>
+    </div>
+    <div class="contain">
+       <div class="menu">
+        <asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" 
+            DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="Small" 
+            Height="20px" Orientation="Horizontal" 
+            RenderingMode="Table" StaticSubMenuIndent="10px" Width="1191px">
+            <DynamicHoverStyle BackColor="#990000" ForeColor="Black" />
+            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <DynamicMenuStyle BackColor="#FFFBD6" />
+            <DynamicSelectedStyle BackColor="#FFCC66" />
+            <Items>
+                <asp:MenuItem NavigateUrl="~/main/Index.aspx" Text="HOME" Value="HOME">
+                </asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/main/admin_login.aspx" Text="ADMIN LOGIN" 
+                    Value="LOGIN"></asp:MenuItem>
+                <asp:MenuItem Text="USER LOGIN" Value="USER LOGIN" 
+                    NavigateUrl="~/main/user_login.aspx"></asp:MenuItem>
+            </Items>
+            <StaticHoverStyle ForeColor="#CC3300" />
+            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <StaticSelectedStyle BackColor="#FFCC66" />
+        </asp:Menu>
+        </div>
+    <div class="side">
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+        </div>
+       
+    <div class="text">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <p>
+                <br />
+            </p>
+        </asp:ContentPlaceHolder>
+        </div>
+    </div>
+     <div class="footer"></div>
+    </div>
+    </form>
+</body>
+</html>

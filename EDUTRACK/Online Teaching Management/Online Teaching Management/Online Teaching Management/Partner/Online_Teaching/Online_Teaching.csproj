@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A4B2CACD-89C5-4A80-B2FA-C975AD0BF90C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Online_Teaching</RootNamespace>
+    <AssemblyName>Online_Teaching</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Partnership\apycom.com-14-fire-brick\help.txt" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\back.png" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\base-select.gif" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\base.gif" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\base.png" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\lavalamp.gif" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\pix.gif" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\sub-select.gif" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\sub.gif" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\images\sub.png" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\index.html" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\jquery.js" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\menu.css" />
+    <Content Include="Partnership\apycom.com-14-fire-brick\menu.js" />
+    <Content Include="Partnership\css\Partnership.css" />
+    <Content Include="Partnership\css\Message.css" />
+    <Content Include="Partnership\images\green_bg.jpg" />
+    <Content Include="Partnership\Menu bar\help.txt" />
+    <Content Include="Partnership\Menu bar\images\back.jpg" />
+    <Content Include="Partnership\Menu bar\images\columns.png" />
+    <Content Include="Partnership\Menu bar\images\item.png" />
+    <Content Include="Partnership\Menu bar\images\menu.png" />
+    <Content Include="Partnership\Menu bar\images\pix.gif" />
+    <Content Include="Partnership\Menu bar\images\subitem.png" />
+    <Content Include="Partnership\Menu bar\index.html" />
+    <Content Include="Partnership\Menu bar\jquery.js" />
+    <Content Include="Partnership\Menu bar\menu.css" />
+    <Content Include="Partnership\Menu bar\menu.js" />
+    <Content Include="Partnership\message.aspx" />
+    <Content Include="Partnership\P_Login.aspx" />
+    <Content Include="Partnership\Student_List.aspx" />
+    <Content Include="Partnership\Notes_List.aspx" />
+    <Content Include="Partnership\Insert_Notes.aspx" />
+    <Content Include="Partnership\Video.aspx" />
+    <Content Include="Partnership\Upload_Video.aspx" />
+    <Content Include="Partnership\Test.aspx" />
+    <Content Include="Partnership\Upload_Profile_Pic.aspx" />
+    <Content Include="Partnership\Compose_Message.aspx" />
+    <Content Include="Partnership\Home.aspx" />
+    <Content Include="Partnership\Profile.aspx" />
+    <Content Include="Partnership\Inbox.aspx" />
+    <Content Include="Partnership\Sent_Items.aspx" />
+    <Content Include="Partnership\Drafts.aspx" />
+    <Content Include="Partnership\P_Registration.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Partnership\Message.Master.cs">
+      <DependentUpon>Message.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Message.Master.designer.cs">
+      <DependentUpon>Message.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Partnership.Master.cs">
+      <DependentUpon>Partnership.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Partnership.Master.designer.cs">
+      <DependentUpon>Partnership.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\message.aspx.cs">
+      <DependentUpon>message.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\message.aspx.designer.cs">
+      <DependentUpon>message.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\P_Login.aspx.cs">
+      <DependentUpon>P_Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\P_Login.aspx.designer.cs">
+      <DependentUpon>P_Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Student_List.aspx.cs">
+      <DependentUpon>Student_List.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Student_List.aspx.designer.cs">
+      <DependentUpon>Student_List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Notes_List.aspx.cs">
+      <DependentUpon>Notes_List.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Notes_List.aspx.designer.cs">
+      <DependentUpon>Notes_List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Insert_Notes.aspx.cs">
+      <DependentUpon>Insert_Notes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Insert_Notes.aspx.designer.cs">
+      <DependentUpon>Insert_Notes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Video.aspx.cs">
+      <DependentUpon>Video.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Video.aspx.designer.cs">
+      <DependentUpon>Video.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Upload_Video.aspx.cs">
+      <DependentUpon>Upload_Video.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Upload_Video.aspx.designer.cs">
+      <DependentUpon>Upload_Video.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Test.aspx.cs">
+      <DependentUpon>Test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Test.aspx.designer.cs">
+      <DependentUpon>Test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Upload_Profile_Pic.aspx.cs">
+      <DependentUpon>Upload_Profile_Pic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Upload_Profile_Pic.aspx.designer.cs">
+      <DependentUpon>Upload_Profile_Pic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Compose_Message.aspx.cs">
+      <DependentUpon>Compose_Message.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Compose_Message.aspx.designer.cs">
+      <DependentUpon>Compose_Message.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Profile.aspx.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Profile.aspx.designer.cs">
+      <DependentUpon>Profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Inbox.aspx.cs">
+      <DependentUpon>Inbox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Inbox.aspx.designer.cs">
+      <DependentUpon>Inbox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Sent_Items.aspx.cs">
+      <DependentUpon>Sent_Items.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Sent_Items.aspx.designer.cs">
+      <DependentUpon>Sent_Items.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\Drafts.aspx.cs">
+      <DependentUpon>Drafts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\Drafts.aspx.designer.cs">
+      <DependentUpon>Drafts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Partnership\P_Registration.aspx.cs">
+      <DependentUpon>P_Registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Partnership\P_Registration.aspx.designer.cs">
+      <DependentUpon>P_Registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Partnership\Partnership.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Partnership\Message.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1245</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

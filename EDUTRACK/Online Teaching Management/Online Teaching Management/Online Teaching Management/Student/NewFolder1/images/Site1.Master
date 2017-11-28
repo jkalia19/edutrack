@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="project.NewFolder1.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <script src="menubar/jquery.js" type="text/javascript"></script>
+    <link href="menubar/menu.css" rel="stylesheet" type="text/css" />
+    <script src="menubar/menu.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+<div class="main">
+<div class="header">
+<div id="logo"></div>
+<div id="name"></div>
+</div>
+<div class="menubar">
+
+<div id="menu">
+    <ul class="menu">
+        <li><a href="../profile_page.aspx"><span>Home</span></a>
+            
+        </li>
+        <li><a href="notes .aspx" ><span>Notes</span></a>
+            
+        </li>
+        <li><a href="classes.aspx"><span>Videos</span></a></li>
+        <li><a href="#"><span>Test</span></a></li>
+        <li  class="last"><a href="../../../main/Index.aspx"><span>Sign Out</span></a></li>
+    </ul>
+    <div id="copyright">Copyright &copy; 2013 <a href="http://apycom.com/"></a></div>
+</div>
+
+
+    </div>
+<div class="content">
+<div class="options" 
+        style="background-image: url('/Student/NewFolder1/images/menubar/images/Advertising.jpg'); background-position: center center"></div>
+<div class="advertisement"></div>
+    
+<div class="textarea">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <br />
+    <br />
+&nbsp;<p></p>
+    </asp:ContentPlaceHolder>
+</div>
+</div>
+<div class="clear"></div>
+<div class="footer"></div>
+</div>
+    </form>
+    </body>
+</html>

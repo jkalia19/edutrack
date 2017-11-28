@@ -1,0 +1,74 @@
+﻿body {
+}
+body {
+}
+.main
+{
+    width:1200px;
+    height:auto;
+}
+.header
+{
+    width:1200px;
+    height:auto;
+    background-color:#e69a22;
+}
+#logo
+{
+    width:200px;
+    height:200px;
+    background-color:Aqua;
+    float:left;
+}
+#name
+{
+    width:1000px;
+    height:200px;
+    background-color:#e69a22;
+    float:right;
+}
+.menubar
+{
+    width:1200px;
+    height:100px;
+    background-color:#e69a22;
+}
+.content
+{
+    width:1200px;
+    height:auto;
+}
+.leftbar
+{
+    width:200px;
+    height:400px;
+    background-color:#e69a22;
+    float:left;
+}
+.textarea
+{
+    width:800px;
+    height:auto;
+    background-color:#e69a22;
+     background-position:bottom;
+    margin-left:200px;
+}
+.rightbar
+{
+    width:200px;
+    height:400px;
+    background-color:#e69a22;
+    float:right;
+}
+.footer
+{
+    width:1200px;
+    height:100px;
+    background-color:Aqua;
+}
+.clear
+{
+    clear:both;
+}
+    
+    

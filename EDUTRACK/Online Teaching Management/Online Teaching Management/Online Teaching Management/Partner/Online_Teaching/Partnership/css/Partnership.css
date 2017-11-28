@@ -1,0 +1,75 @@
+﻿body 
+{
+    background-image:url("../images/green_bg.jpg");
+    background-attachment:fixed;
+}
+.main
+{
+    width:1100px;
+    height:auto;
+    margin-left:100px;
+}
+.header
+{
+    width:1100px;
+    height:200px;
+    
+}
+#logo
+{
+    width:250px;
+    height:200px;
+    background-color:Maroon;
+    float:left;
+}
+#name
+{
+    width:850px;
+    height:200px;
+    background-color:Orange;
+    float:right;
+}
+.menubar
+{
+    width:1100px;
+    height:60px;
+    background-color:#222;
+}
+.content
+{
+    width:1100px;
+    height:auto;
+    background-color:transparent;
+}
+.options
+{
+    width:250px;
+    height:600px;
+    background-color:Olive;
+    background-image:url("../Partner/Online_Teaching/Partnership/images/Advertising.jpg");
+    float:left;
+}
+.textarea
+{
+    width:700px;
+    height:auto;
+    background-color:White;
+    margin-left:250px;
+}
+.advertisement
+{
+    width:150px;
+    height:400px;
+    background-color:Red;
+    float:right;
+}
+.footer
+{
+    width:1100px;
+    height:150px;
+    background-color:Silver;
+}
+.clear
+{
+    clear:both;
+}  

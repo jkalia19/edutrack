@@ -1,0 +1,54 @@
+﻿body {
+}
+.main
+{
+    width:1200px;
+    height:inherit;
+}
+.head
+{
+    width:1200px;
+    height:200px;
+}
+.logo
+{
+    width:200px;
+    height:200px;
+    background-color:Aqua;
+    float:left;
+}
+.title
+{
+    width:1000px;
+    height:200px;
+    float:right;
+}
+.menu
+{
+    width:1200px;
+    height:31px;
+}
+.contain
+{
+    width:1200px;
+    height:inherit;
+}
+.side
+{
+    width:300px;
+    height:350px;
+    background-color:Fuchsia;
+    float:left;
+}
+.text
+{
+    width:900px;
+    height:auto;
+    float:right;
+}
+.footer
+{
+    width:1200px;
+    height:50px;
+    background-color:Navy;
+}

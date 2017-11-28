@@ -1,0 +1,73 @@
+﻿body 
+{
+    background-image:url("../images/green_bg.jpg");
+    background-attachment:fixed;
+}
+.main
+{
+    width:1100px;
+    height:auto;
+    margin-left:100px;
+}
+.header
+{
+    width:1100px;
+    height:150px;
+    
+}
+#logo
+{
+    width:250px;
+    height:150px;
+    background-color:Maroon;
+    float:left;
+}
+#name
+{
+    width:850px;
+    height:150px;
+    background-color:Orange;
+    float:right;
+}
+.menubar
+{
+    width:1100px;
+    height:50px;
+    background-color:#222;
+}
+.content
+{
+    width:1100px;
+    height:auto;
+    background-color:transparent;
+}
+.options
+{
+    width:175px;
+    height:auto;
+    float:left;
+}
+.textarea
+{
+    width:800px;
+    height:auto;
+    background-color:White;
+    margin-left:175px;
+}
+.advertisement
+{
+    width:125px;
+    height:400px;
+    background-color:Red;
+    float:right;
+}
+.footer
+{
+    width:1100px;
+    height:150px;
+    background-color:Silver;
+}
+.clear
+{
+    clear:both;
+}  

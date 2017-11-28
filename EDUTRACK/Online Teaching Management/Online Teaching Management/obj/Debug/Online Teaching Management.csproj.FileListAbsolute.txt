@@ -1,0 +1,69 @@
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\Online Teaching Management.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\Online Teaching Management.pdb
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\AjaxControlToolkit.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\AjaxControlToolkit.pdb
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\ar\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\cs\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\de\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\es\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\fr\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\he\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\hi\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\it\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\ja\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\ko\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\nl\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\pt\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\ru\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.dll
+D:\PROJECT\Jiwan project\web\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.pdb
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\Online Teaching Management.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\Online Teaching Management.pdb
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\AjaxControlToolkit.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\AjaxControlToolkit.pdb
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\ar\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\cs\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\de\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\es\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\fr\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\he\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\hi\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\it\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\ja\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\ko\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\nl\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\pt\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\ru\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.dll
+F:\jiwan\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.pdb
+F:\jiwan\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.csprojResolveAssemblyReference.cache
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\Online Teaching Management.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\Online Teaching Management.pdb
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\AjaxControlToolkit.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\AjaxControlToolkit.pdb
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\ar\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\cs\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\de\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\es\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\fr\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\he\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\hi\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\it\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\ja\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\ko\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\nl\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\pt\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\ru\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.csprojResolveAssemblyReference.cache
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.dll
+D:\Study\vsproject\EDUTRACK(groupno.8_geetak_jeewan_joban_shubham)\Online Teaching Management\Online Teaching Management\obj\Debug\Online Teaching Management.pdb
